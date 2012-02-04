@@ -1,4 +1,4 @@
-![DistributedCity Logo](/images/dclogo-big.png)
+![DistributedCity Logo](/images/dc-logo-website-readme.png)
 
 # Welcome to Distributed City
 

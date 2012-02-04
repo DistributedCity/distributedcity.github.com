@@ -1,8 +1,8 @@
-![DistributedCity Logo](http://distributedcity.github.com/images/dclogo-big.png)
+# The Distributed City Project
 
-# Welcome to Distributed City
+![DistributedCity Logo](http://distributedcity.github.com/images/dc-logo-website-readme.png)
 
-## Distributed City Overview and Documentation
+## Overview and Documentation
 http://distributedcity.github.com/
 
 ## Projects

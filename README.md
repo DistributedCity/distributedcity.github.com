@@ -1,37 +1,35 @@
 ![Distributed City](http://distributedcity.github.com/images/distributedCity.jpg)
 
-## About
+## Welcome
+
+#### Distributed City: Cypherpunk Apps and Networks for the Second Realm.
 
 ## Active Projects
-### Distributed Chat 
-[node-dc-chat](https://github.com/DistributedCity/node-dc-chat)
 
-## Roadmap
+### Distributed Chat
+* Project page: [node-dc-chat](https://github.com/DistributedCity/node-dc-chat)
+* Description: P2P Distributed Encrypted Anonymous Chat System.
+* Tags: Node.js, PGP/GPG, CouchDB, Tor, I2P, Hook.io
 
-### Reader
 
-### Forum
+## Proposed Projects
+#### P2P Distributed Encrypted Anonymous:
+* Forum
+* Feed Reader
+* MicroBloging/Tweet/Status 
+* Mail
+* Messenger
 
-### MicroBlog
-
-### Mail
-
-### Messenger
-
-### Chat
-
-## Legacy
+## Legacy v1.0
 
 ### Community System
 [v1.0](https://github.com/DistributedCity/dc-legacy-system-v1) (Depreciated - Historical Only)
 
 ## Contact
+
 ### IRC
-IRC SSL Required: agora.anarplex.net
-Port: 14716
-Channel: #agora
-or
-ircs://agora.anarplex.net:14716/#agora
+* IRC SSL Required: agora.anarplex.net Port: 14716 Channel: #agora
+* Browser enabled IRC users can click ircs://agora.anarplex.net:14716/#agora
 
 ## History
 
@@ -39,7 +37,7 @@ ircs://agora.anarplex.net:14716/#agora
 Private Community, Open Source Web Based
 
 ### 2012-Present
-New technology, new blood, new world. Projects are back underway.
+New technology, new blood, new world. Sourceforge Tired. Github Wired.
 
 ## Thanks
 

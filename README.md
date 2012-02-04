@@ -1,12 +1,26 @@
 ## About
 
-## Projects
-* Distributed Chat
+## Active Projects
+* Chat [node-dc-chat](https://github.com/DistributedCity/node-dc-chat)
 
 ## Roadmap
+* Reader
+* Forum
+* MicroBlog
+* Mail
+* Messenger
+* Chat
 
-## Contribute
-Fork, make changes, additions, submissions, and give us a PULL request.
+### Legacy
+* Distributed City [Community System v1.0](https://github.com/DistributedCity/dc-legacy-system-v1) (Depreciated - Historical Only)
+
+## Contact
+Some of us hang out in IRC:
+IRC SSL Required: agora.anarplex.net
+Port: 14716
+Channel: #agora
+or
+ircs://agora.anarplex.net:14716/#agora
 
 ## History
 * 2002-2009: Private Community, Open Source Web Based

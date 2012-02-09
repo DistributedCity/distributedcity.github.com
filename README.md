@@ -42,7 +42,7 @@ New technology, new blood, new world. Sourceforge Tired. Github Wired.
 ## Thanks
 
 ### v1 Contributors
-mids, gente_libre, invisible_man, mister lee, ellison, rusty and others.
+mids, gente_libre, phlex, invisible_man, mister lee, ellison, rusty and others.
 
 ### v1 Participants
 Hundreds of users we hope to see again in the future in the new systems.

@@ -2,12 +2,17 @@
 
 ## Welcome
 
-#### Distributed City: Cypherpunk Apps and Networks for the Second Realm.
+#### Distributed City: Second Realm Cypherpunk Apps, Community and Dev Crew.
 
 ## Active Projects
 
+### ICANNHAZ.bit
+* Website: [http://distributedcity.github.com/icannhaz/](http://distributedcity.github.com/icannhaz/)
+* Github: [https://github.com/DistributedCity/icannhaz](https://github.com/DistributedCity/icannhaz/)
+* Tags: Node.js, Namecoin, .bit, Distributed P2P DNS, Firefox, ICANN
+
 ### Distributed Chat
-* Project page: [node-dc-chat](https://github.com/DistributedCity/node-dc-chat)
+* Project Page: [node-dc-chat](https://github.com/DistributedCity/node-dc-chat)
 * Description: P2P Distributed Encrypted Anonymous Chat System.
 * Tags: Node.js, PGP/GPG, CouchDB, Tor, I2P, Hook.io
 
@@ -23,7 +28,7 @@
 ## Legacy v1.0
 
 ### Community System
-[v1.0](https://github.com/DistributedCity/dc-legacy-system-v1) (Depreciated - Historical Only)
+[v1.0](https://github.com/DistributedCity/dc-legacy-system-v1) (Inactive - Historical Only)
 
 ## Contact
 
